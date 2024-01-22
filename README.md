@@ -40,7 +40,7 @@
 ## Contatos:
 
 <div>
-  <a href="https://www.linkedin.com/in/phelippe-schnel-35617026a/" target="_blank">
+  <a href="https://www.linkedin.com/in/phelippe-schnel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank">
   </a>
 </div>&nbsp;&nbsp;
